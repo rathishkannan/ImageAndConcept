@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ImageAndConcept</string>
+    <string-array name="image_array">
+        <item>autumn</item>
+        <item>christmas</item>
+        <item>kashmir</item>
+        <item>bicycle</item>
+        <item>laptop</item>
+        <item>kalam</item>
+        <item>blackhole</item>
+    </string-array>
+    <string-array name="concept_array">
+        <item>Autumn is one of the four temperate seasons. Autumn marks the transition from summer into winter, in September (Northern Hemisphere) or March (Southern Hemisphere), when the arrival of night becomes noticeably earlier and the temperature cools considerably.</item>
+        <item>Christmas is an annual festival commemorating the birth of Jesus Christ, observed most commonly on December 25 as a religious and cultural celebration among billions of people around the world.</item>
+        <item>Kashmir is a geographical region in the north-west of the Indian subcontinent. Until the mid-19th century, the term Kashmir geographically denoted only the valley between the Great Himalayas and the Pir Panjal mountain range.</item>
+        <item>A bicycle, often called a bike or cycle, is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist.</item>
+        <item>A laptop, often called a notebook, is a portable personal computer with a clamshell form factor, suitable for mobile use. A laptop combines the components and inputs of a desktop computer, including the display, speakers, a keyboard, and pointing devices into a single unit</item>
+        <item>Avul Pakir Jainulabdeen "A. P. J." Abdul Kalam (15 October 1931 – 27 July 2015) was the 11th President of India from 2002 to 2007. A career scientist turned politician, Kalam was born and raised in Rameswaram, Tamil Nadu, and studied physics and aerospace engineering.</item>
+        <item>A black hole is a place in space where gravity pulls so much that even light can not get out. The gravity is so strong because matter has been squeezed into a tiny space. This can happen when a star is dying.</item>
+    </string-array>
+</resources>
